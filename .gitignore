@@ -1,3 +1,7 @@
+# MapTool specific stuff
+.buildlocal
+*.mtlib
+
 # Logs
 logs
 *.log

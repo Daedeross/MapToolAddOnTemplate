@@ -1,0 +1,14 @@
+{
+    "name": "<Library Name>",
+    "version": "0.0.0",
+    "website": "<website.url.here>",
+    "gitUrl": "github.com/<username>/<repository>",
+    "authors": [ "Anonymous" ],
+    "license": "<LICENCE>",
+    "namespace": "<namespace>",
+    "description": "<library long description>",
+    "shortDescription": "<library short description>",
+    "allowsUriAccess": true,
+    "readMeFile": "README.md",
+    "licenseFile": "LICENCE"
+  }

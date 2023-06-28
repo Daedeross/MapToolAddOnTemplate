@@ -1,0 +1,1 @@
+[h: broadcast("This is run when the add-on is added and everytime the campaign is loaded.")]
