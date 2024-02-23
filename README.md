@@ -9,7 +9,7 @@ Basic template for a MapTool Add-On Library with Powershell build script
 - Edit `library.json` to fill in your libary's info.
 - Add scripts to the `library` directory.
 - Create sub-directories for any web-apps.
-- Run `build/ps1` when ready to deploy (see below).
+- Run `build.ps1` when ready to deploy (see below).
 
 ## How to build and deploy your library
 
